@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Moosa Choudhary. I am from Pakistan
-- 👀 I’m interested in learning Linux and software development 
-- 🌱 I’m currently learning Data Structure and Algorithms
-- 📫 You can reach me on my email: musa123ch@gmail.com
+- 👋 Hi, I’m Moosa Choudhary. I am from Pakistan currently a senior of Computer Science at Judson University
+- 👀 I’m interested in improving my skills and knowledge in different Operating Systems, Software development, Software Quality Assurance, Web/App Development, and Databases
+- 🌱 I’m currently learning Data Structure and Algorithms, Software design patterns, Computer Systems and Networks, and Cloud Computing
+- 📫 You can reach me on my email: moosachoudhary7@gmail.com
 
 <!---
 Moosa1111/Moosa1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
